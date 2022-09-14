@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/72699045/190070491-386e4805-5e02-49ff-8131-1e69551599e9.png)
 
-# YetGen Python Jump Eğitim Programı
+# YetGen Jump Python Eğitim Programı
 Yetkin Gençler tarafından düzenlenen 8 Haftalık Sıfırdan Orta-İleri Düzeye Python Eğitimi (Jump Programı)
 
 ### 1.Hafta: Kodlama ve Python'a Giriş - Algoritmalar
