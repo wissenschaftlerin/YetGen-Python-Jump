@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/72699045/190070491-386e4805-5e02-49ff-8131-1e69551599e9.png)
 
 # YetGen Jump Python Eğitim Programı
-Yetkin Gençler tarafından düzenlenen 8 Haftalık Sıfırdan Orta-İleri Düzeye Python Eğitimi (Jump Programı)
+[Yetkin Gençler](https://github.com/yetkingencler) tarafından düzenlenen 8 Haftalık Sıfırdan Orta-İleri Düzeye Python Eğitimi (Jump Programı)
 
 ### 1.Hafta: Python Programlama Diline Giriş
 - Kodlama ve Python'a Giriş
@@ -58,4 +58,5 @@ Yetkin Gençler tarafından düzenlenen 8 Haftalık Sıfırdan Orta-İleri Düze
 - Hata İşlemleri 3
 
 ### 8.Hafta: Final Projesi	
+[Final Proje Listesi](https://github.com/yetkingencler/YetGenJumpPythonFinalProjeListesi/)
 - [Robin Ekibi Kahve Otomatı Projesi](https://github.com/wissenschaftlerin/Robin-Team-Coffee-Vending-Machine)
