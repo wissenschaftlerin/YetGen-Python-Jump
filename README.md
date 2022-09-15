@@ -58,4 +58,4 @@ Yetkin Gençler tarafından düzenlenen 8 Haftalık Sıfırdan Orta-İleri Düze
 - Hata İşlemleri 3
 
 ### 8.Hafta: Final Projesi	
-- Robin Ekibi Kahve Otomatı Projesi
+- [Robin Ekibi Kahve Otomatı Projesi](https://github.com/wissenschaftlerin/Robin-Team-Coffee-Vending-Machine)
